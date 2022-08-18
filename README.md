@@ -2,9 +2,6 @@
 
 ## Reflect
 
-Remember our "Simple Liker" program? In it we saw that front-end web programming
-is using three "pillars" working together:
-
 - ☑ Manipulating the DOM
 - ☑ Recognizing JavaScript events
 - Communicating with the server
